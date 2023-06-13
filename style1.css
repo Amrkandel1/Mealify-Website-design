@@ -1,0 +1,166 @@
+@media screen and (max-width:1580px){
+    .container2{
+        width: 90%;
+    } 
+    .maindiv3{
+        min-width: 90%;
+    }  
+}
+@media screen and (max-width:1410px){
+    .home-photo{
+        width: 40%;
+    }
+    .home-buttons{
+        width: 90%;
+    }
+    .container{
+        width: 90%;
+    } 
+    .dark{
+        right: 4.3%;
+        top: 3.2%;
+    }
+}
+@media screen and (max-width:1333px){
+    .maindiv4{
+        width: 90%;
+    }
+    .info{
+        width: 100%;
+    }
+    .info2{
+        margin-top: 1.25rem;
+    } 
+}
+@media screen and (max-width:1210px){
+    .maindiv6{
+        flex-wrap: wrap;
+    }
+    .section1{
+        width: 100%;
+    }
+    .section2{
+        margin-top: 1.875rem;
+        width: 100%;
+    }
+    .section3{
+        margin-top: 1.875rem;
+        width: 100%;
+    } 
+}
+@media screen and (max-width:1045px){
+    .home-text{
+        width: 50%;
+    }
+    .topics{
+        display: none;
+    }
+    .dark-mode-icon i{
+        margin-right: 0.3125rem;
+    }
+    .dark-mode-icon2{
+        display: inline;
+        margin-left: 0.25rem;
+    }
+    .dark{
+        right: 8.8%;
+        top: 3.2%;
+    }
+}
+@media screen and (max-width:992px){
+    .maindiv3{
+        display: flex;
+        flex-wrap: wrap;  
+    } 
+    .chef{
+        width: 50%; 
+    }  
+    .maindiv4{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .column1{
+        row-gap: 11.5rem;
+    }
+    .column{  
+        width: 50%;
+    }
+    .photo2{
+        margin-bottom: 1.25rem;
+    }
+    .photo5{
+        width: 95%;
+    }
+    .photo6{
+        width: 95%;
+    }
+    .photo7{
+        width: 95%;
+    }
+}
+@media screen and (max-width:810px){
+    .maindiv{
+        flex-wrap: wrap;
+        text-align: center;
+        justify-content: center;
+    }
+    .home-photo{
+        width: 100%;
+    }
+    .home-photo img{
+        width: 80%;
+    }
+    .home-text{
+        order: 1;
+    }   
+    .dark{
+        right: 10%;
+        top: 3.6%;
+    }
+}
+@media screen and (max-width:810px){
+    .home-text{
+        width: 100%;
+    }
+    .home-buttons{
+        width: 70%;
+        margin: auto;
+    }   
+}
+@media screen and (max-width:769px){
+    .chef{
+        width: 100%; 
+    }   
+    .maindiv4{
+        display: flex;
+        flex-wrap: wrap;
+        width: 70%;
+    }
+    .column{  
+        width: 100%;
+    }
+    .photo5{
+        width: 95%;
+    }
+    .photo6{
+        width: 95%;
+    }
+    .photo7{
+        width: 95%;
+    }
+}
+@media screen and (max-width:669px){
+    .dark{
+        right: 11%;
+        top: 3.6%;
+        width: 5%;
+    }
+    
+}
+@media screen and (max-width:514px){
+    .dark{
+        right: 13%;
+        top: 3.4%;
+        width: 5.5%;
+    }
+}
