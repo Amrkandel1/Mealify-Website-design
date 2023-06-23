@@ -171,14 +171,23 @@
     .photo4-layer p{
         margin-top: 0.625rem;
     }
+    .photo5-layer h2{
+        top: 27%;
+    }
     .photo5-layer p{
-        margin-top: 0.625rem;
+        top: 45%;
+    }
+    .photo6-layer h2{
+        top: 27%;
     }
     .photo6-layer p{
-        margin-top: 0.625rem;
+        top: 45%;
+    }
+    .photo7-layer h2{
+        top: 30%;
     }
     .photo7-layer p{
-        margin-top: 10px;
+        top: 45%;
     }
     .container6{
         width: 95%;
@@ -186,4 +195,8 @@
     .maindiv5{
         width: 95%;
     }
+    .button2{
+        margin-left: 1.5625rem;
+    }
+    
 }
