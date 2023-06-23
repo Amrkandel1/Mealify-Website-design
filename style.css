@@ -4,13 +4,13 @@
     box-sizing: border-box;
     scroll-behavior: smooth;
 }
-
 /*------------------------ var-color ---------------------------*/
 :root {
     --main-color: #CE1212;
     --second-color: #212529;
     --third-color: #7F7F90;
     --fourth-color: #37373F;
+    --fourth1-color: #37373F;
     --fifth-color: #4F4F5A;
     --six-color: #FFFFFF;
     --seven-color: #FFFFFF;
@@ -320,7 +320,7 @@ body:has(.contact-page:target) .contact-link::after {
 }
 
 .button2-2 {
-    width: 2.8rem;
+    min-width: 2.8rem;
     height: 2.8rem;
     border-radius: 50%;
     background-image: linear-gradient(to right, var(--main-color) 0 50%, transparent 50% 100%);
@@ -479,7 +479,7 @@ body:has(.contact-page:target) .contact-link::after {
 }
 
 .chef1-hover-icons ul li i:hover {
-    color: var(--fourth-color);
+    color: var(--fourth1-color);
 }
 
 .chef1 img {
@@ -597,7 +597,7 @@ body:has(.contact-page:target) .contact-link::after {
 }
 
 .chef2-hover-icons ul li i:hover {
-    color: var(--hover2-color);
+    color: var(--fourth1-color);
 }
 
 .chef2-photo {
@@ -697,7 +697,7 @@ body:has(.contact-page:target) .contact-link::after {
 }
 
 .chef3-hover-icons ul li i:hover {
-    color: var(--hover2-color);
+    color: var(--fourth1-color);
 }
 
 .chef3-photo {

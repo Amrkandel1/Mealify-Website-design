@@ -79,12 +79,6 @@
         display: flex;
         flex-wrap: wrap;
     }
-    .column1{
-        row-gap: 11.5rem;
-    }
-    .column{  
-        width: 50%;
-    }
     .photo2{
         margin-bottom: 1.25rem;
     }
@@ -155,12 +149,41 @@
         top: 3.6%;
         width: 5%;
     }
-    
+    .container6{
+        width: 95%;
+    }
 }
 @media screen and (max-width:514px){
     .dark{
         right: 13%;
         top: 3.4%;
         width: 5.5%;
+    }
+    .photo1-layer p{
+        margin-top: 0.625rem;
+    }
+    .photo2-layer p{
+        margin-top: 0.625rem;
+    }
+    .photo3-layer p{
+        margin-top: 0.625rem;
+    }
+    .photo4-layer p{
+        margin-top: 0.625rem;
+    }
+    .photo5-layer p{
+        margin-top: 0.625rem;
+    }
+    .photo6-layer p{
+        margin-top: 0.625rem;
+    }
+    .photo7-layer p{
+        margin-top: 10px;
+    }
+    .container6{
+        width: 95%;
+    }
+    .maindiv5{
+        width: 95%;
     }
 }
